@@ -4,6 +4,28 @@ Pagri Studio App is a React + Vite product surface packaged for Android using Ca
 
 This README is intentionally technical and architecture-focused so reviewers can assess engineering maturity without exposing confidential source internals.
 
+
+## App Screenshots
+
+### Home
+
+![Home screen](screenshots/01-home.png)
+
+### Services
+
+![Services screen](screenshots/02-services.png)
+
+### Pagri AI
+
+![Pagri AI screen](screenshots/03-pagri-ai.png)
+
+### About
+
+![About screen](screenshots/04-about.png)
+
+### Request
+
+![Request screen](screenshots/05-request.png)
 ## 1. Executive Summary
 
 Problem addressed:
