@@ -10,11 +10,11 @@ This README is intentionally technical and architecture-focused so reviewers can
 Compact mobile previews (not full-page captures):
 
 <p align="left">
-	<img src="featured-images/01-home.png" alt="Home" width="220" />
-	<img src="featured-images/02-services.png" alt="Services" width="220" />
-	<img src="featured-images/03-pagri-ai.png" alt="Pagri AI" width="220" />
-	<img src="featured-images/04-about.png" alt="About" width="220" />
-	<img src="featured-images/05-request.png" alt="Request" width="220" />
+	<img src="featured-images/01-home.png" alt="Home" width="180" />
+	<img src="featured-images/02-services.png" alt="Services" width="180" />
+	<img src="featured-images/03-pagri-ai.png" alt="Pagri AI" width="180" />
+	<img src="featured-images/04-about.png" alt="About" width="180" />
+	<img src="featured-images/05-request.png" alt="Request" width="180" />
 </p>
 
 ## 1. Executive Summary
