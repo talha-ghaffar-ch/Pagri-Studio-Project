@@ -1,5 +1,7 @@
 # Pagri Studio App (Technical Reviewer Edition)
 
+![Pagri Studio App Featured Image](linkedin-assets/linkedin-post-image-1200x627.png)
+
 Pagri Studio App is a React + Vite product surface packaged for Android using Capacitor, with embedded AI workflows (Gemini), PWA capabilities, and a mobile-first conversion funnel.
 
 This README is intentionally technical and architecture-focused so reviewers can assess engineering maturity without exposing confidential source internals.
